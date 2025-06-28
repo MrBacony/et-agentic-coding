@@ -2,7 +2,9 @@
   "name": "@et-agentic-coding/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "slidev": "slidev ./presentation/agentic-coding-workshop.slidev.md --open"
+  },
   "private": true,
   "dependencies": {
     "@analogjs/content": "^1.18.0",
@@ -16,6 +18,7 @@
     "@angular/platform-server": "~20.0.0",
     "@angular/router": "~20.0.0",
     "@angular/ssr": "~20.0.0",
+    "@slidev/theme-seriph": "^0.25.0",
     "@tailwindcss/vite": "^4.1.4",
     "express": "^4.21.2",
     "front-matter": "^4.0.2",
@@ -27,6 +30,7 @@
     "postcss": "^8.5.3",
     "prismjs": "^1.29.0",
     "rxjs": "~7.8.0",
+    "slidev-theme-purplin": "^1.2.0",
     "tailwindcss": "^4.1.4",
     "zone.js": "~0.15.0"
   },
@@ -41,6 +45,7 @@
     "@angular/compiler-cli": "~20.0.0",
     "@angular/language-service": "~20.0.0",
     "@eslint/js": "^9.8.0",
+    "@iconify-json/carbon": "^1.2.10",
     "@modelcontextprotocol/sdk": "^1.13.2",
     "@nx/angular": "21.2.1",
     "@nx/devkit": "21.2.1",
@@ -55,6 +60,7 @@
     "@nx/workspace": "21.2.1",
     "@playwright/test": "^1.36.0",
     "@schematics/angular": "~20.0.0",
+    "@slidev/cli": "^51.8.2",
     "@swc-node/register": "~1.9.1",
     "@swc/core": "~1.5.7",
     "@swc/helpers": "~0.5.11",
