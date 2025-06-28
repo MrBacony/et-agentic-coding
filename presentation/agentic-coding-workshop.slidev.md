@@ -59,7 +59,7 @@ mdc: true
 
 ---
 
-# Was Sie heute mitnehmen
+# Was ihr heute mitnehmt
 
 <div class="grid grid-cols-2 gap-8 mt-4">
 <div class="flex flex-col space-y-6">
@@ -103,7 +103,7 @@ mdc: true
 
 - KI als **aktiver Kollaborator** im Entwicklungsprozess
 - Von passiven Hilfestellungen zu **proaktiven Lösungen**
-- **Kontinuierliches Lernen** aus Codebase & Anforderungen
+- **Kontinuierliches Lernen** aus eurer Codebase & Anforderungen
 
 </v-clicks>
 </div>
@@ -113,17 +113,17 @@ mdc: true
 ## Warum es wichtig ist
 <v-clicks>
 
-- 🚀 **3-4x höhere Produktivität**
-- 🧠 **Kognitive Belastung** deutlich reduziert
-- ⏱️ **Time-to-Market** stark verkürzt
+- 🚀 **Deutlich höhere Produktivität**
+- 🧠 **Kognitive Belastung** spürbar reduziert
+- ⏱️ **Time-to-Market** merklich verkürzt
 - 🎯 Mehr Fokus auf **kreative Problemlösung**
 
 </v-clicks>
 </div>
 </div>
 
-<!-- Mit konkreten Zahlen (3-4x) wird die Präsentation überzeugender -->
 <!-- Die Verwendung von starken Begriffen wie "Kollaborator" statt "Mitarbeiter" schafft ein kraftvolleres Bild -->
+<!-- Qualitative statt quantitative Vorteile betonen verstärkt die Glaubwürdigkeit -->
 
 ---
 
@@ -151,7 +151,7 @@ mdc: true
 - ⚙️ **Komponenten**: Smarte Generierung mit OnPush
 - 🔄 **Services**: DI-basierte Implementierungen
 - 📝 **FormBuilder**: Komplexe Validierung
-- 🗃️ **NgRx**: Boilerplate-Reduktion um 80%
+- 🗃️ **NgRx**: Erhebliche Boilerplate-Reduktion
 - 🧪 **Tests**: Automatische Testfälle
 
 </v-clicks>
@@ -160,7 +160,7 @@ mdc: true
 
 <!-- Stufenweiser Aufbau vom Einfachen zum Komplexen -->
 <!-- Konkrete Angular-Bezüge für den Workshop-Kontext -->
-<!-- Der Prozentsatz (80%) macht die Vorteile greifbar -->
+<!-- Qualitative Beschreibung statt exakter Prozentsatz -->
 
 ---
 
@@ -267,8 +267,8 @@ Von hier entwickeln wir uns zu strukturierteren Ansätzen →
 - Standard: OnPush Change Detection
 ```
 
-- **Benefit**: 42% weniger Nachfragen durch KI
-- **Ergebnis**: Konsistente Ausgaben im Team
+- **Benefit**: Deutlich weniger Nachfragen durch KI
+- **Ergebnis**: Konsistente Ausgaben in eurem Team
 
 </v-clicks>
 </div>
@@ -287,13 +287,13 @@ Von hier entwickeln wir uns zu strukturierteren Ansätzen →
 ```
 
 - **Benefit**: Wiederholbare, versionierbare Workflows
-- **Ergebnis**: 3x schnellere Feature-Entwicklung
+- **Ergebnis**: Wesentlich schnellere Feature-Entwicklung
 
 </v-clicks>
 </div>
 </div>
 
-<!-- Konkrete Beispiele und messbare Vorteile (42%, 3x) machen die Präsentation überzeugender -->
+<!-- Konkrete Beispiele mit qualitativen Vorteilen wirken überzeugend -->
 <!-- Das Format mit den Dateiendungen verdeutlicht die praktische Anwendung -->
 
 ---
@@ -619,19 +619,19 @@ Jedes Team wird ein Feature mit Agentic Coding entwickeln und seine Erfahrungen 
 
 <div class="space-y-3">
   <div class="bg-blue-50/10 p-2 rounded">
-    "Welche Agentic Coding Technik hat dein Team am meisten vorangebracht?"
+    "Welche Agentic Coding Technik hat euer Team am meisten vorangebracht?"
   </div>
   
   <div class="bg-green-50/10 p-2 rounded">
-    "Wo hat die KI deine Erwartungen übertroffen oder enttäuscht?"
+    "Wo hat die KI eure Erwartungen übertroffen oder enttäuscht?"
   </div>
   
   <div class="bg-purple-50/10 p-2 rounded">
-    "Welche spezifischen Angular-Herausforderungen konntest du mit KI lösen?"
+    "Welche spezifischen Angular-Herausforderungen konntet ihr mit KI lösen?"
   </div>
   
   <div class="bg-yellow-50/10 p-2 rounded">
-    "Was wirst du ab Montag in deinem Workflow einsetzen?"
+    "Was werdet ihr ab Montag in eurem Workflow einsetzen?"
   </div>
 </div>
 
@@ -683,7 +683,7 @@ Jedes Team wird ein Feature mit Agentic Coding entwickeln und seine Erfahrungen 
 </div>
 
 <div v-click class="text-center text-sm mt-6">
-<strong class="text-yellow-400">Tipp:</strong> Beginne mit einfachen Instruction-Dateien in deinen bestehenden Projekten
+<strong class="text-yellow-400">Tipp:</strong> Beginnt mit einfachen Instruction-Dateien in euren bestehenden Projekten
 </div>
 
 <!-- Konkrete Links und Ressourcen mit Datumsangaben wirken professioneller -->
@@ -703,7 +703,7 @@ Jedes Team wird ein Feature mit Agentic Coding entwickeln und seine Erfahrungen 
   - Von einfachen Prompts zu integrierten Workflows
   
 - ⚡ **Entwicklungszyklen beschleunigen** mit intelligenter Unterstützung
-  - Messbarer Produktivitätsgewinn: 40-300% je nach Szenario
+  - Messbare Produktivitätssteigerung je nach Anwendungsfall
   
 - 🛠️ **Strukturierte Ansätze übertreffen** Ad-hoc-Lösungen
   - Instruction-Dateien und Prompt-Templates als Standard
@@ -723,7 +723,7 @@ Jedes Team wird ein Feature mit Agentic Coding entwickeln und seine Erfahrungen 
 </div>
 </div>
 
-<!-- Konkrete Zahlen (40-300%) machen die Vorteile greifbarer -->
+<!-- Qualitative Beschreibung der Vorteile wirkt glaubwürdiger -->
 <!-- Das emotionale "Eure Reise beginnt jetzt" schafft eine stärkere Verbindung -->
 
 ---
