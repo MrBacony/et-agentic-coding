@@ -646,8 +646,7 @@ Jedes Team wird ein Feature mit Agentic Coding entwickeln und seine Erfahrungen 
 
 # Weiterführende Ressourcen
 
-<div class="grid grid-cols-2 gap-8">
-<div class="space-y-4">
+<div class="space-y-6">
 
 ## Workshop-Materialien
 <v-clicks>
@@ -656,33 +655,16 @@ Jedes Team wird ein Feature mit Agentic Coding entwickeln und seine Erfahrungen 
   - github.com/MrBacony/et-agentic-coding
 
 - 🧰 **Enthaltene Ressourcen**
-  - Basis-App (Angular 17, ready-to-run)
-  - Instruction & Prompt Libraries
+  - Basis-App (AnalogJS 18, Angular 20, ready-to-run)
+  - Workshop-Präsentation & Workshop-Plan
+  - Instruction-Dateien & Prompt-Templates
   - MCP-Tool-Konfigurationen
   - Feature-Anforderungen
 
 </v-clicks>
 </div>
 
-<div class="space-y-4">
-
-## Zum Weitermachen
-<v-clicks>
-
-- 🌐 **Community & Support**
-  - Discord: [discord.gg/agentic-coding](https://discord.gg/agentic-coding)
-  - Monatliche Meetups (online)
-
-- 📚 **Weiterbildung**
-  - "Advanced Agentic Coding" Workshop (Sept 2025)
-  - Angular-KI-Integration Kurs (online)
-  - MCP-Tool-Entwicklung (Advanced)
-
-</v-clicks>
-</div>
-</div>
-
-<div v-click class="text-center text-sm mt-6">
+<div v-click class="text-center text-sm mt-8">
 <strong class="text-yellow-400">Tipp:</strong> Beginnt mit einfachen Instruction-Dateien in euren bestehenden Projekten
 </div>
 
