@@ -1,7 +1,7 @@
 ---
 mode: 'agent'
 tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFiles', 'githubRepo', 'new', 'openSimpleBrowser', 'problems', 'runCommands', 'runNotebooks', 'runTasks', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI']
-description: 'Generate a new design document for the following feature'
+description: 'Generate a file structure with components, services, and NgRx implementation based on the feature design document'
 ---
 
 # Aufgabe

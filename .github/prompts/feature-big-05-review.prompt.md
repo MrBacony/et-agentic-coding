@@ -1,7 +1,7 @@
 ---
 mode: 'agent'
 tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFiles', 'githubRepo', 'new', 'openSimpleBrowser', 'problems', 'runCommands', 'runNotebooks', 'runTasks', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI']
-description: 'Generate a new design document for the following feature'
+description: 'Perform a comprehensive code review of the implemented feature, checking Angular best practices, test coverage, and generating MCP-compliant documentation'
 ---
 
 # Aufgabe

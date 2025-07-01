@@ -1,7 +1,7 @@
 ---
 mode: 'agent'
 tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFiles', 'githubRepo', 'new', 'openSimpleBrowser', 'problems', 'runCommands', 'runNotebooks', 'runTasks', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI']
-description: 'Generate a new design document for the following feature'
+description: 'Implement the feature using test-driven development with a focus on services, store logic, and Angular Material UI components'
 ---
 
 # Aufgabe
