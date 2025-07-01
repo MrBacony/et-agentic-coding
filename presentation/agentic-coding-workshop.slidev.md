@@ -1,8 +1,7 @@
 ---
-theme: purplin
-title: Agentic Coding mit Angular
-layout: cover
-background: 'https://source.unsplash.com/collection/94734566/1920x1080'
+theme: seriph
+title: Agentic Coding - Mit Mopsgeschwindigkeit voraus!
+background: '/img/mopsgeschwindigkeit.png'
 class: 'text-center'
 highlighter: shiki
 lineNumbers: false
@@ -10,13 +9,18 @@ transition: slide-left
 mdc: true
 ---
 
-# Agentic Coding mit Angular
+# Agentic Coding
+## Mit Mopsgeschwindigkeit voraus!
 
-## Intelligente Entwicklung für das moderne Web
+<br>
+<br>
+
+### Intelligente Entwicklung für das moderne Web
 
 <div class="text-sm opacity-70 mt-4">
   <strong>Dauer:</strong> 90 Minuten<br>
-  <strong>Zielgruppe:</strong> Angular-Entwickler, Tech Leads, Engineering Manager
+  <strong>Zielgruppe:</strong> Angular-Entwickler, Tech Leads, Engineering Manager<br>
+  <strong>Präsentiert von:</strong> Gregor Speck & Johannes Ströbele
 </div>
 
 <!-- Setzen wir den Standard für professionelle Präsentationen -->
@@ -495,7 +499,7 @@ export class SchedulerComponent {}
 ## Workshop-Setup
 <v-clicks>
 
-- **Basis-App**: JWT Auth, Firebase, Material UI
+- **Basis-App**: JWT Auth, Angular Material, Tailwind CSS
 - **Team-Größe**: 2-3 Personen
 - **Materialien**: Instruction-Files, Prompt-Templates
 - **Zeit**: 25 Minuten für Feature-Entwicklung
@@ -722,7 +726,7 @@ Jedes Team wird ein Feature mit Agentic Coding entwickeln und seine Erfahrungen 
   <div>
     <div class="text-2xl mb-2">📱</div>
     <div class="font-bold">Kontakt</div>
-    <div class="text-sm opacity-80">@MrBacony</div>
+    <div class="text-sm opacity-80">Gregor Speck & Johannes Ströbele</div>
   </div>
   
   <div>
