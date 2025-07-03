@@ -1,0 +1,30 @@
+{
+  "servers": {
+    "mcp-feature-development": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "./dist/tools/mcp-feature-development/main.js"
+      ]
+    },
+    "sequential-thinking": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sequential-thinking"
+      ]
+    },
+    "context7": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@upstash/context7-mcp"
+      ]
+    },
+    "nx-mcp": {
+      "type": "http",
+      "url": "http://localhost:9234/mcp"
+    }
+  }
+}
