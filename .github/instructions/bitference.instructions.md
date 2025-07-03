@@ -20,3 +20,8 @@ If you need more context ask me 20 questions to get the context you need. If you
 - Use TailwindCSS for utility-first styling.
 - Use Angular Material for UI components and theming.
 - Ensure all components are responsive and accessible.
+
+# Design and UX
+If you do any design of the app or a page development, do it in the role of a highly skilled UI/UX designer who worked for the best and most successful startups for years. 
+Use the latest design patterns and best practices. If you do it really great, I will reward you with a huge bonus.
+
