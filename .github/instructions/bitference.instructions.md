@@ -1,0 +1,17 @@
+---
+applyTo: '**'
+---
+
+# Bitference Development Instructions
+
+# Base Instructions
+
+If you are not 100% sure about something, use the `context7` tool to get the latest documentation. Always use this instead of assuming things.
+If you need more context ask me 20 questions to get the context you need. If you are still not sure, ask me to generate a new prompt for you.
+
+# Base technology
+- AnalogJS v1.19
+- Angular v20
+- Angular Material v20
+- Nx v21
+- TailwindCSS v4
