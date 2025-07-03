@@ -33,7 +33,7 @@ import { RouterModule } from '@angular/router';
               </p>
               <div class="flex flex-wrap gap-4">
                 <button mat-raised-button color="primary" class="text-lg py-3 px-8 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 font-medium">Kostenlos testen</button>
-                <button mat-stroked-button class="border-2 border-white text-white text-lg py-3 px-8 rounded-full hover:bg-white hover:bg-opacity-10 transition-all duration-300 font-medium">Demo ansehen</button>
+                <button mat-stroked-button class="border-2 border-white !text-white text-lg py-3 px-8 rounded-full hover:bg-white hover:bg-opacity-10 transition-all duration-300 font-medium">Demo ansehen</button>
               </div>
               <div class="mt-6 flex items-center">
                 <div class="flex -space-x-2">
@@ -101,10 +101,10 @@ import { RouterModule } from '@angular/router';
               </div>
               <h3 class="text-xl font-bold mb-3 group-hover:text-blue-700 transition-colors duration-300">Konferenzmanagement</h3>
               <p class="text-gray-600 mb-4">Erstelle und verwalte deine Konferenzen mit allen Details wie Name, Datum, Veranstaltungsort und thematischer Ausrichtung.</p>
-              <div class="flex items-center text-sm text-blue-700 font-medium opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <button mat-button color="primary" class="p-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 <span>Mehr erfahren</span>
                 <mat-icon class="text-base ml-1">arrow_forward</mat-icon>
-              </div>
+              </button>
             </mat-card>
             
             <mat-card class="p-8 h-full rounded-xl hover:shadow-xl transition-all duration-300 group relative overflow-hidden">
@@ -114,10 +114,10 @@ import { RouterModule } from '@angular/router';
               </div>
               <h3 class="text-xl font-bold mb-3 group-hover:text-blue-700 transition-colors duration-300">Raum- und Ortsverwaltung</h3>
               <p class="text-gray-600 mb-4">Konfiguriere Veranstaltungsorte, verwalte Räume und deren Kapazitäten, und erstelle detaillierte Raumkonfigurationen.</p>
-              <div class="flex items-center text-sm text-blue-700 font-medium opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <button mat-button color="primary" class="p-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 <span>Mehr erfahren</span>
                 <mat-icon class="text-base ml-1">arrow_forward</mat-icon>
-              </div>
+              </button>
             </mat-card>
             
             <mat-card class="p-8 h-full rounded-xl hover:shadow-xl transition-all duration-300 group relative overflow-hidden">
@@ -127,10 +127,10 @@ import { RouterModule } from '@angular/router';
               </div>
               <h3 class="text-xl font-bold mb-3 group-hover:text-blue-700 transition-colors duration-300">Referentenverwaltung</h3>
               <p class="text-gray-600 mb-4">Pflege Sprecherprofile, verfolge Kommunikationen und verwalte spezifische Anforderungen der Redner.</p>
-              <div class="flex items-center text-sm text-blue-700 font-medium opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <button mat-button color="primary" class="p-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 <span>Mehr erfahren</span>
                 <mat-icon class="text-base ml-1">arrow_forward</mat-icon>
-              </div>
+              </button>
             </mat-card>
             
             <mat-card class="p-8 h-full rounded-xl hover:shadow-xl transition-all duration-300 group relative overflow-hidden">
@@ -140,10 +140,10 @@ import { RouterModule } from '@angular/router';
               </div>
               <h3 class="text-xl font-bold mb-3 group-hover:text-blue-700 transition-colors duration-300">Sessionplanung</h3>
               <p class="text-gray-600 mb-4">Erstelle verschiedene Sessiontypen und plane Veranstaltungen mit automatischer Erkennung von Terminkonflikten.</p>
-              <div class="flex items-center text-sm text-blue-700 font-medium opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <button mat-button color="primary" class="p-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 <span>Mehr erfahren</span>
                 <mat-icon class="text-base ml-1">arrow_forward</mat-icon>
-              </div>
+              </button>
             </mat-card>
             
             <mat-card class="p-8 h-full rounded-xl hover:shadow-xl transition-all duration-300 group relative overflow-hidden">
@@ -153,10 +153,10 @@ import { RouterModule } from '@angular/router';
               </div>
               <h3 class="text-xl font-bold mb-3 group-hover:text-blue-700 transition-colors duration-300">Track-Management</h3>
               <p class="text-gray-600 mb-4">Organisiere thematische Tracks, weise Sessions zu und nutze Farbkodierungen für bessere Übersicht.</p>
-              <div class="flex items-center text-sm text-blue-700 font-medium opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <button mat-button color="primary" class="p-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 <span>Mehr erfahren</span>
                 <mat-icon class="text-base ml-1">arrow_forward</mat-icon>
-              </div>
+              </button>
             </mat-card>
             
             <mat-card class="p-8 h-full rounded-xl hover:shadow-xl transition-all duration-300 group relative overflow-hidden">
@@ -166,10 +166,10 @@ import { RouterModule } from '@angular/router';
               </div>
               <h3 class="text-xl font-bold mb-3 group-hover:text-blue-700 transition-colors duration-300">Zeitplanverwaltung</h3>
               <p class="text-gray-600 mb-4">Nutze eine visuelle Kalenderoberfläche mit Drag-and-Drop-Funktionalität für einfache Terminplanung.</p>
-              <div class="flex items-center text-sm text-blue-700 font-medium opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <button mat-button color="primary" class="p-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 <span>Mehr erfahren</span>
                 <mat-icon class="text-base ml-1">arrow_forward</mat-icon>
-              </div>
+              </button>
             </mat-card>
           </div>
         </div>
@@ -379,15 +379,15 @@ import { RouterModule } from '@angular/router';
               <h3 class="text-xl font-bold mb-6">Bitference</h3>
               <p class="text-gray-400 mb-6">Die umfassende Plattform für professionelles Konferenzmanagement</p>
               <div class="flex space-x-4">
-                <a href="#" class="w-10 h-10 rounded-full bg-white bg-opacity-10 flex items-center justify-center hover:bg-opacity-20 transition-colors duration-300">
+                <button mat-icon-button aria-label="Email" class="bg-white bg-opacity-10 hover:bg-opacity-20 transition-colors duration-300">
                   <mat-icon class="text-white text-base">alternate_email</mat-icon>
-                </a>
-                <a href="#" class="w-10 h-10 rounded-full bg-white bg-opacity-10 flex items-center justify-center hover:bg-opacity-20 transition-colors duration-300">
+                </button>
+                <button mat-icon-button aria-label="Website" class="bg-white bg-opacity-10 hover:bg-opacity-20 transition-colors duration-300">
                   <mat-icon class="text-white text-base">language</mat-icon>
-                </a>
-                <a href="#" class="w-10 h-10 rounded-full bg-white bg-opacity-10 flex items-center justify-center hover:bg-opacity-20 transition-colors duration-300">
+                </button>
+                <button mat-icon-button aria-label="Social Media" class="bg-white bg-opacity-10 hover:bg-opacity-20 transition-colors duration-300">
                   <mat-icon class="text-white text-base">launch</mat-icon>
-                </a>
+                </button>
               </div>
             </div>
             <div>
