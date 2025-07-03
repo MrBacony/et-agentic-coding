@@ -20,12 +20,12 @@ libs/
 
 ## Übersicht der Arbeitspakete
 
-1. [Konferenzmanagement und Administration](./arbeitspaket-1-konferenzmanagement.md) - `libs/bitference-conference`
-2. [Veranstaltungsort und Raumverwaltung](./arbeitspaket-2-raumverwaltung.md) - `libs/bitference-venue`
-3. [Referenten- und Sessionverwaltung](./arbeitspaket-3-referenten-session.md) - `libs/bitference-speakers`
-4. [Track-Management und Programmplanung](./arbeitspaket-4-track-management.md) - `libs/bitference-tracks`
-5. [Zeitplanung und Terminplanung](./arbeitspaket-5-zeitplanung.md) - `libs/bitference-scheduler`
-6. [Öffentliches Programm und Teilnehmer-Interface](./arbeitspaket-6-teilnehmer-interface.md) - `libs/bitference-public`
-7. [Feedback und Analytics](./arbeitspaket-7-feedback-analytics.md) - `libs/bitference-feedback`
+1. [Konferenzmanagement und Administration](./team-1/arbeitspaket-1-konferenzmanagement.md) - `libs/bitference-conference`
+2. [Veranstaltungsort und Raumverwaltung](./team-2/arbeitspaket-2-raumverwaltung.md) - `libs/bitference-venue`
+3. [Referenten- und Sessionverwaltung](./team-3/arbeitspaket-3-referenten-session.md) - `libs/bitference-speakers`
+4. [Track-Management und Programmplanung](./team-4/arbeitspaket-4-track-management.md) - `libs/bitference-tracks`
+5. [Zeitplanung und Terminplanung](./team-5/arbeitspaket-5-zeitplanung.md) - `libs/bitference-scheduler`
+6. [Öffentliches Programm und Teilnehmer-Interface](./team-6/arbeitspaket-6-teilnehmer-interface.md) - `libs/bitference-public`
+7. [Feedback und Analytics](./team-7/arbeitspaket-7-feedback-analytics.md) - `libs/bitference-feedback`
 
 Jedes Arbeitspaket ist als eigenständige Einheit konzipiert, die unabhängig entwickelt werden kann. Die Teams sollten die gemeinsamen Datenmodelle und Interfaces aus einer zentralen `bitference-core`-Library verwenden, um die Konsistenz zu gewährleisten. Für jede Library werden entsprechende Pages, Komponenten, Services und API-Endpunkte nach dem AnalogJS-Muster implementiert.
