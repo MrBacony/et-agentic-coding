@@ -221,32 +221,41 @@ mdc: true
 <div class="space-y-4">
 
 ## Feature-Zuweisungen
-<div class="grid grid-cols-3 gap-2">
+<div class="grid grid-cols-2 gap-2">
   <div v-click class="bg-blue-700/30 p-2 rounded-lg text-center">
     <div class="text-2xl">🏢</div>
-    <div class="text-xs font-bold">Konferenz-Management</div>
+    <div class="text-xs font-bold">Konferenzmanagement & Administration</div>
   </div>
   <div v-click class="bg-green-700/30 p-2 rounded-lg text-center">
-    <div class="text-2xl">👥</div>
-    <div class="text-xs font-bold">Speaker & Sessions</div>
+    <div class="text-2xl">🏨</div>
+    <div class="text-xs font-bold">Veranstaltungsort & Raumverwaltung</div>
   </div>
   <div v-click class="bg-yellow-700/30 p-2 rounded-lg text-center">
-    <div class="text-2xl">📅</div>
-    <div class="text-xs font-bold">Interaktiver Zeitplan</div>
-  </div>
-  <div v-click class="bg-purple-700/30 p-2 rounded-lg text-center">
-    <div class="text-2xl">🎟️</div>
-    <div class="text-xs font-bold">Registrierung</div>
+    <div class="text-2xl">🎤</div>
+    <div class="text-xs font-bold">Referenten- & Sessionverwaltung</div>
   </div>
   <div v-click class="bg-red-700/30 p-2 rounded-lg text-center">
-    <div class="text-2xl">⭐</div>
-    <div class="text-xs font-bold">Feedback-System</div>
+    <div class="text-2xl">🔍</div>
+    <div class="text-xs font-bold">Track-Management & Programmplanung</div>
   </div>
+  <div v-click class="bg-purple-700/30 p-2 rounded-lg text-center">
+    <div class="text-2xl">⏱️</div>
+    <div class="text-xs font-bold">Zeitplanung & Terminplanung</div>
+  </div>
+  <div v-click class="bg-indigo-700/30 p-2 rounded-lg text-center">
+    <div class="text-2xl">�</div>
+    <div class="text-xs font-bold">Öffentliches Programm & Teilnehmer-Interface</div>
+  </div>
+  <div v-click class="bg-orange-700/30 p-2 rounded-lg text-center">
+    <div class="text-2xl">📊</div>
+    <div class="text-xs font-bold">Feedback & Analytics</div>
+  </div>
+</div>
+  
 </div>
 
 <div v-click class="mt-4 text-sm">
 Jedes Team wird ein Feature mit Agentic Coding entwickeln und seine Erfahrungen teilen.
-</div>
 </div>
 </div>
 
