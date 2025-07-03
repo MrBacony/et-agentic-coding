@@ -15,3 +15,8 @@ If you need more context ask me 20 questions to get the context you need. If you
 - Angular Material v20
 - Nx v21
 - TailwindCSS v4
+
+# Styling standards
+- Use TailwindCSS for utility-first styling.
+- Use Angular Material for UI components and theming.
+- Ensure all components are responsive and accessible.
