@@ -19,7 +19,7 @@ mdc: true
 
 <div class="text-sm opacity-70 mt-4">
   <strong>Dauer:</strong> 90 Minuten<br>
-  <strong>Zielgruppe:</strong> Angular-Entwickler, Tech Leads, Engineering Manager<br>
+  <strong>Zielgruppe:</strong> Ihr!<br>
   <strong>Präsentiert von:</strong> Gregor Speck & Johannes Ströbele
 </div>
 
